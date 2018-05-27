@@ -2,6 +2,6 @@
 
 int say_hello (void)
 {
-	printf("Hello!");
+	printf("Hello");
 	return 0;
 }
