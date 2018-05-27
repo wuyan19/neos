@@ -12,3 +12,4 @@ git push <远程主机名> <本地分支名> <远程分支名>
 git fetch origin
 git merge origin/master
 git push origin master
+
